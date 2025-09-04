@@ -34,12 +34,7 @@ It replicates the look and feel of Netflix’s official sign-in page, including 
 
 ---
 
-## 📸 Preview
-![Netflix Clone Screenshot](screenshot.png)
 
-*(You can take a screenshot of your page and save it as `screenshot.png` in the repo to show it here.)*
-
----
 
 ## 📌 Future Improvements
 - Add mobile responsiveness for smaller screens.  
@@ -49,7 +44,7 @@ It replicates the look and feel of Netflix’s official sign-in page, including 
 ---
 
 ## 👤 Author
-- **Your Name**  
+- Pranam Khajuria  
   B.Tech CSE | CV Raman Global University  
   Passionate about Web Development 🚀
 
